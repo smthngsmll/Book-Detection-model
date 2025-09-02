@@ -1,0 +1,6 @@
+train: /kaggle/input/bookdata/train/images
+val: /kaggle/input/bookdata/valid/images
+test: /kaggle/input/bookdata/test/images
+
+nc: 1
+names: ['Book']
