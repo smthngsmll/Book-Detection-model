@@ -1,4 +1,4 @@
-# Book Detection YOLOv5 model
+# Book-Detection-YOLOv5-model
 # idea:
 This projects aims to combine Books data with powerful Computer Visuon tools to enable detecting books from real time captured data. 📚
 
